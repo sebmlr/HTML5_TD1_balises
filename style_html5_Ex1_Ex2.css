@@ -2,30 +2,42 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    height: 100vh;
+    background-color: #dddddd;
+}
+.header_title{
+    text-align: center;
+    background-color: #dddddd;
+    height: auto;
+    padding: 15px;
+}
 section{
-    background-color: #ceecf3;
+
+
+
     display: flex;
     justify-content: space-around;
-    height: 100%;
-    width: 100vw;
+    height: 90vh;
 }
-
 p{
-    background-color: #80bdff;
+    padding: 3px;
+    color: white;
+    background-color: #434548;
     text-align: justify;
+    height: auto;
 }
 
- header{
+ .header_art{
+     text-align: center;
+     padding-top: 8px;
      background-color: white;
  }
-
 article {
 
     width: 24vw;
     display: inline-block;
 }
-
 footer{
     background-color: #98c3f3;
 }
