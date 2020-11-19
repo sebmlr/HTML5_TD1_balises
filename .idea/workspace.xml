@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050fb79d-5afd-465e-8573-b7ac6a7daff0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/indexEx1_et_Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexEx1_et_Ex2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styleEx1_et_Ex2.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleEx1_et_Ex2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexEx1_et_Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_html5_Ex1_Ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleEx1_et_Ex2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style_html5_Ex1_Ex2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,12 +57,24 @@
       <option name="presentableId" value="Default" />
       <updated>1605792892843</updated>
       <workItem from="1605792893875" duration="5410000" />
-      <workItem from="1605811173732" duration="315000" />
+      <workItem from="1605811173732" duration="738000" />
     </task>
+    <task id="LOCAL-00001" summary="html5TD1">
+      <created>1605811717891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605811717891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="html5TD1" />
+    <option name="LAST_COMMIT_MESSAGE" value="html5TD1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="755" y="308" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605794332458">
