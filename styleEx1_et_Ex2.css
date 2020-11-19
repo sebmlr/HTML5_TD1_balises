@@ -8,6 +8,7 @@ section{
     display: flex;
     justify-content: space-around;
     height: 100%;
+    width: 100vw;
 }
 
 p{
@@ -20,7 +21,8 @@ p{
  }
 
 article {
-    width: 400px;
+
+    width: 24vw;
     display: inline-block;
 }
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050fb79d-5afd-465e-8573-b7ac6a7daff0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../TD1 Exercices BS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TD1 Exercices BS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/indexEx1_et_Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/indexEx1_et_Ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styleEx1_et_Ex2.css" beforeDir="false" afterPath="$PROJECT_DIR$/styleEx1_et_Ex2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../TD1 Exercices BS" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kVjwdBehpGlF4KYFtSSLOvY2y5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -33,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -55,7 +57,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605792892843</updated>
-      <workItem from="1605792893875" duration="5110000" />
+      <workItem from="1605792893875" duration="5410000" />
+      <workItem from="1605811173732" duration="315000" />
     </task>
     <servers />
   </component>
@@ -67,9 +70,21 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="755" y="308" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605794332458" />
-    <state x="437" y="319" key="FileChooserDialogImpl" timestamp="1605793066763">
+    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605798286293">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="437" y="319" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605793066763" />
+    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798286293" />
+    <state x="437" y="319" key="FileChooserDialogImpl" timestamp="1605798255341">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="437" y="319" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798255341" />
+    <state x="880" y="459" key="Github.ShareDialog" timestamp="1605798262730">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="880" y="459" key="Github.ShareDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798262730" />
+    <state x="810" y="266" key="Github.UntrackedFilesDialog" timestamp="1605798274216">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="810" y="266" key="Github.UntrackedFilesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798274216" />
   </component>
 </project>
