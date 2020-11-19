@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="050fb79d-5afd-465e-8573-b7ac6a7daff0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/indexEx1_et_Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_html5_Ex1_Ex2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styleEx1_et_Ex2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style_html5_Ex1_Ex2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_html5_Ex1_Ex2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_html5_Ex1_Ex2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_listes_Ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_listes_Ex1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,13 +40,13 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises" />
-      <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises\css" />
       <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises" />
+      <recent name="C:\Users\sebml\PhpstormProjects\Html5_TD1_balises\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605792892843</updated>
       <workItem from="1605792893875" duration="5410000" />
-      <workItem from="1605811173732" duration="738000" />
+      <workItem from="1605811173732" duration="3149000" />
     </task>
     <task id="LOCAL-00001" summary="html5TD1">
       <created>1605811717891</created>
@@ -66,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605811717891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="html5TD1">
+      <created>1605811920210</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605811920210</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,10 +89,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="755" y="308" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605794332458" />
-    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605798286293">
+    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605811919751">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798286293" />
+    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605811919751" />
     <state x="437" y="319" key="FileChooserDialogImpl" timestamp="1605798255341">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -97,5 +105,9 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="810" y="266" key="Github.UntrackedFilesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798274216" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605811921063">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605811921063" />
   </component>
 </project>
