@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    background-color: #ceecf3;
+    display: flex;
+    justify-content: space-around;
+    height: 100%;
+}
+
+p{
+    background-color: #80bdff;
+    text-align: justify;
+}
+
+ header{
+     background-color: white;
+ }
+
+article {
+    width: 400px;
+    display: inline-block;
+}
+
+footer{
+    background-color: #98c3f3;
+}
