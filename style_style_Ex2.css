@@ -1,0 +1,21 @@
+nav{
+    border-radius: 5px;
+    background-color: #212F3D;
+    margin: 0;
+    padding: 0;
+    width: 30vw;
+    height: 5vh;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    display: inline-block;
+    color: white;
+    border-right: white solid 1px;
+    font-size: larger;
+    padding: 10px;
+}
+li:hover{
+    color: gold;
+}
