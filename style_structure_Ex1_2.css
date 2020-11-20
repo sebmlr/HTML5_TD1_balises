@@ -4,7 +4,7 @@
 }
 body{
     height: 100vh;
-    background-color: #f6f1f1;
+    background-color: #faf7f7;
 }
 .header_title{
     text-align: center;
@@ -16,35 +16,33 @@ body{
 section{
     display: flex;
     justify-content: space-around;
-    height: auto;
     border-radius: 15px;
-    background-color: #d4d4d4;
-    vertical-align: center;
+    background-color: #faf7f7;
     border: solid 3px #474747;
 }
-p{
-    padding: 3px;
-    text-align: justify;
-    height: auto;
-    background-color: white;
-}
- .header_art{
-     text-align: center;
-     padding-top: 8px;
-     background-color: white;
- }
 article {
     width: 24vw;
+    height: auto;
     display: inline-block;
-}
-footer{
     background-color: white;
-
+}
+.header_art{
+    text-align: center;
+    padding-top: 8px;
+    background-color: white;
+}
+p{
+    padding: 5px;
+    text-align: justify;
+    background-color: white;
+}
+.footer{
+    background-color: white;
 }
 .footer_page{
     background-color: #474747;
     color: white;
+    width: 100%;
     bottom: 0;
     position: absolute;
-    width: 100%;
 }

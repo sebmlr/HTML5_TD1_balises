@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="050fb79d-5afd-465e-8573-b7ac6a7daff0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_structure_Ex1_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_structure_Ex1_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style_structure_Ex1_2.css" beforeDir="false" afterPath="$PROJECT_DIR$/style_structure_Ex1_2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,8 @@
       <workItem from="1605792893875" duration="5410000" />
       <workItem from="1605811173732" duration="6054000" />
       <workItem from="1605858833478" duration="8374000" />
+      <workItem from="1605867319235" duration="299000" />
+      <workItem from="1605870042852" duration="2638000" />
     </task>
     <task id="LOCAL-00001" summary="html5TD1">
       <created>1605811717891</created>
@@ -122,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605866682448</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="html5TD1">
+      <created>1605867355238</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605867355238</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,14 +148,14 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="755" y="308" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605794332458" />
-    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605866681931">
+    <state x="643" y="138" key="CommitChangelistDialog2" timestamp="1605867354808">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605866681931" />
-    <state x="437" y="319" key="FileChooserDialogImpl" timestamp="1605798255341">
+    <state x="643" y="138" key="CommitChangelistDialog2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605867354808" />
+    <state x="437" y="319" key="FileChooserDialogImpl" timestamp="1605867616429">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="437" y="319" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798255341" />
+    <state x="437" y="319" key="FileChooserDialogImpl/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605867616429" />
     <state x="880" y="459" key="Github.ShareDialog" timestamp="1605798262730">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
@@ -153,10 +164,10 @@
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
     <state x="810" y="266" key="Github.UntrackedFilesDialog/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605798274216" />
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605866560029">
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2" timestamp="1605867362631">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
-    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605866560029" />
+    <state x="617" y="294" key="Vcs.Push.Dialog.v2/0.-1527.1810.993/-2715.-94.1810.987/0.0.2048.1122@0.0.2048.1122" timestamp="1605867362631" />
     <state x="842" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605861042831">
       <screen x="0" y="0" width="2048" height="1122" />
     </state>
