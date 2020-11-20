@@ -20,6 +20,7 @@ section{
     border-radius: 15px;
     background-color: #d4d4d4;
     vertical-align: center;
+    border: solid 3px #474747;
 }
 p{
     padding: 3px;
