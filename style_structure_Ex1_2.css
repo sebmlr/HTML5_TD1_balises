@@ -16,7 +16,10 @@ body{
 section{
     display: flex;
     justify-content: space-around;
-    height: 90vh;
+    height: auto;
+    border-radius: 15px;
+    background-color: #d4d4d4;
+    vertical-align: center;
 }
 p{
     padding: 3px;
@@ -40,4 +43,7 @@ footer{
 .footer_page{
     background-color: #474747;
     color: white;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
 }

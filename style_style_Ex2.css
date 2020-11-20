@@ -17,5 +17,9 @@ li {
     padding: 10px;
 }
 li:hover{
+    color: grey;
+}
+#li_end{
+    border-right: none;
     color: gold;
 }
