@@ -9,16 +9,18 @@ body{
 .header_title{
     text-align: center;
     background-color: #474747;
-    height: auto;
+    height: 5vh;
     padding: 15px;
     color: white;
 }
 section{
     display: flex;
+    height: 60vh;
     justify-content: space-around;
     border-radius: 15px;
     background-color: #faf7f7;
     border: solid 3px #474747;
+    padding:15vh 0 15vh 0;
 }
 article {
     width: 24vw;
@@ -42,6 +44,7 @@ p{
 .footer_page{
     background-color: #474747;
     color: white;
+    height: 5vh;
     width: 100%;
     bottom: 0;
     position: absolute;
